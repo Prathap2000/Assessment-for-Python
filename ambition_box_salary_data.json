@@ -1,0 +1,27 @@
+[
+    {
+        "role": "Software Engineer",
+        "average_salary": "₹ 8.6 Lakhs. Salary ...",
+        "salary_range": "₹ 2.8 Lakhs to  16.0 Lakhs"
+    },
+    {
+        "role": "Data Analyst",
+        "average_salary": "₹ 6.4 Lakhs.",
+        "salary_range": "₹ 1.8 Lakhs to  13.0 Lakhs"
+    },
+    {
+        "role": "Product Manager",
+        "average_salary": "₹ 21.5 Lakhs.",
+        "salary_range": "₹ 5.5 Lakhs to  38.0 Lakhs"
+    },
+    {
+        "role": "UX Designer",
+        "average_salary": "₹ 10.7 Lakhs.",
+        "salary_range": "₹ 3.0 Lakhs to  22.0 Lakhs"
+    },
+    {
+        "role": "Marketing Manager",
+        "average_salary": "₹ 12.5 Lakhs.",
+        "salary_range": "₹ 2.3 Lakhs to  24.7 Lakhs"
+    }
+]
